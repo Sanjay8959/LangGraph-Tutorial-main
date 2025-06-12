@@ -49,6 +49,9 @@ A dual-mode chatbot that automatically switches between emotional support and lo
    streamlit run app.py
    ```
 
+1.1 IF CODE NOT RUN SO MODULE ARE MIS MATCH SO YOU CAN USE 
+    " uv sync "
+
 2. **Access the UI**
    - Open your browser and go to `http://localhost:8501`
 
@@ -68,6 +71,8 @@ Simply type your message in the chat input field. The system will automatically:
 3. Display the response in the chat interface
 
 You can view which mode was used for each response in the sidebar.
+
+
 
 ## License
 
